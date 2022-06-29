@@ -1,0 +1,9 @@
+[submodule "OssTutorialProject/Plugins/AccelByte/AccelByteOSS"]
+	path = OssTutorialProject/Plugins/AccelByte/AccelByteOSS
+	url = https://github.com/AccelByte/accelbyte-unreal-oss
+[submodule "OssTutorialProject/Plugins/AccelByte/AccelByteNetwork"]
+	path = OssTutorialProject/Plugins/AccelByte/AccelByteNetwork
+	url = https://github.com/AccelByte/accelbyte-unreal-network-utilities
+[submodule "OssTutorialProject/Plugins/AccelByte/AccelByteUe4Sdk"]
+	path = OssTutorialProject/Plugins/AccelByte/AccelByteUe4Sdk
+	url = https://github.com/accelbyte/accelbyte-unreal-sdk-plugin
